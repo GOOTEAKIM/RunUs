@@ -129,7 +129,6 @@ Run-Us는 사용자가 지역 기반 커뮤니티에서 러닝 메이트를 모�
 
 #### **DB**
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Infra**
